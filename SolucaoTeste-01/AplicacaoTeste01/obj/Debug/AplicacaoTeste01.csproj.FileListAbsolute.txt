@@ -1,0 +1,5 @@
+c:\users\carlos\documents\visual studio 2010\Projeto-Teste-01\SolucaoTeste-01\AplicacaoTeste01\bin\AplicacaoTeste01.dll
+c:\users\carlos\documents\visual studio 2010\Projeto-Teste-01\SolucaoTeste-01\AplicacaoTeste01\bin\AplicacaoTeste01.pdb
+c:\users\carlos\documents\visual studio 2010\Projeto-Teste-01\SolucaoTeste-01\AplicacaoTeste01\obj\Debug\ResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2010\Projeto-Teste-01\SolucaoTeste-01\AplicacaoTeste01\obj\Debug\AplicacaoTeste01.dll
+c:\users\carlos\documents\visual studio 2010\Projeto-Teste-01\SolucaoTeste-01\AplicacaoTeste01\obj\Debug\AplicacaoTeste01.pdb
